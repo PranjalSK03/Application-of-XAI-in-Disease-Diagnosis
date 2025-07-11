@@ -74,9 +74,9 @@ To develop robust medical image segmentation models and integrate Grad-CAM to vi
 
 ## 👨‍💻 Contributors
 
-- **Pranjal Singh Katiyar** (CSB20046)  
-- **Ramakrishnananda** (CSB20048)  
-- **Supervisor**: Dr. Rosy Sarmah, Associate Professor, Dept. of CSE, Tezpur University
+- **Pranjal Singh Katiyar** [🔗Linkedin](https://www.linkedin.com/in/pranjal-singh-katiyarar-065299209/)
+- **Ramakrishnananda** [🔗Linkedin](https://www.linkedin.com/in/ramakrishnananda-mishra-451a2b252/)
+- **Supervisor**: Dr. Rosy Sarmah, [🔗Associate Professor, Dept. of CSE, Tezpur University](https://agnigarh.tezu.ernet.in/~rosy8/index.html)
 
 ---
 
