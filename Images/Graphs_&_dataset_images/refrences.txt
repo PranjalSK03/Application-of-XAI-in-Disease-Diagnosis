@@ -1,0 +1,238 @@
+1. ANN
+A logical calculus of the ideas immanent in nervous activity,Bulletin of Mathematical Biophysics 5:115-133
+https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
+https://mind.ilstu.edu/curriculum/mcp_neurons/mcp_neuron1.html#:~:text=McCulloch%20and%20Pitts%20also%20showed,only%20a%20highly%20simplified%20model.
+
+2.perceptrons
+The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain/ percieving and recognizing automation, report no. 85-460-1, (Project Para), January, 1957
+https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf
+
+3.perceptron image
+https://gamedevacademy.org/perceptrons-the-first-neural-networks/
+
+4. sigmoid, backpropagation
+David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams. Learning representations by back-propagating errors, 1986
+https://www.nature.com/articles/323533a0
+
+5. 
+Pedro Domingos. A Few Useful Things to Know About Machine Learning, Communications of the ACM, 2012
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+6.book
+"Neural Networks and Deep Learning" by Michael Nielsen.
+
+7.ReLU
+Vinod Nair, Geoffrey E. Hinton.
+Rectified Linear Units, Improve Restricted Boltzmann Machines, Proceedings of the 27th International Conference on Machine Learning (ICML-10), 2010
+
+8. softmax
+Yann LeCun, Léon Bottou, Yoshua Bengio, Patrick Haffner.
+Gradient-based learning applied to document recognition, Proceedings of the IEEE, 1998
+
+9.book
+"Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville:
+
+10. book
+"Pattern Recognition and Machine Learning" by Christopher M. Bishop
+
+11. gradient descent
+Arthur E. Bryson, Yu-Chi Ho. "A Method for Constrained Optimization Problems", 1969.
+https://books.google.co.in/books/about/Applied_Optimal_Control.html?id=k_FQAAAAMAAJ&redir_esc=y
+
+12. learning rate 
+I. Sutskever, J. Martens, G. Dahl, and G. Hinton. On "the importance of initialization and momentum in deep learning", 2013
+https://www.cs.toronto.edu/~fritz/absps/momentum.pdf
+
+13. computer vision book
+Computer Vision: Algorithms and Applications by Richard Szeliski
+
+14. receptive field
+Hubel, DH, Wiesel. "Receptive fields of single neurones in the cat's striate cortex". J. Physiol., 1958 148 (3): 574–91, (October 1959)
+https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.1959.sp006308
+
+15. receptive field
+Mahapattanakul, Puttatida . "From Human Vision to Computer Vision — Convolutional Neural Network(Part3/4)". Medium, (November 11, 2019). Archived from the original on May 25, 2021. Retrieved May 25, 2021.
+
+16. Neocognitron
+Fukushima, Kunihiko. "Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position" (PDF). Biological Cybernetics, 1980. 36 (4): 193–202. doi:10.1007/BF00344251. PMID 7370364. S2CID 206775608
+
+17. Neocognitron
+Fukushima, K. (2007). "Neocognitron". Scholarpedia. 2 (1): 1717.
+
+18. book
+Fundamentals of Deep Learning, 2nd Edition by by Nithin Buduma, Nikhil Buduma, Joe Papa
+
+19. regression
+https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regressio
+
+20. classification
+https://www.datacamp.com/blog/classification-machine-learning
+
+21. segmentation
+https://www.v7labs.com/blog/image-segmentation-guide
+
+22. medical image seg 
+Dzung L. Pham, Chenyang Xu, and Jerry L. Prince. Current Methods in Medical Image Segmentation, Volume publication date August 2000
+
+23. medical image seg
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks for Biomedical Image Segmentation, MICCAI 2015
+
+24. medical image seg
+Evan Shelhamer, Jonathan Long, and Trevor Darrell. Fully Convolutional Networks for Semantic Segmentation, CVPR 2015
+
+25. medical image seg
+Geert Litjens, Thijs Kooi, Babak Ehteshami Bejnordi, Arnaud Arindra Adiyoso Setio, Francesco Ciompi, Mohsen Ghafoorian, Jeroen Awm Van Der Laak, Bram Van Ginneken, Clara I. Sánchez. A Survey on Deep Learning in Medical Image Analysis, Medical Image Analysis, 2017
+
+26. segmentation types
+https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
+
+27. Unet
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015
+https://www.researchgate.net/publication/305193694_U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation
+
+28.DCU-net images
+https://github.com/AngeLouCN/DC-UNet
+
+29.multiresUnet block image
+https://github.com/nibtehaz/MultiResUNet/issues/22
+
+30. multiresUnet image
+https://dl.acm.org/doi/fullHtml/10.1145/3425577.3425578
+
+31. MultiResUnet
+Michał Futrega, Alexandre Milesi, Michal Marcinkiewicz, Pablo Ribalta. Optimized U-Net for Brain Tumor Segmentation, 7 Oct 2021 
+https://arxiv.org/abs/2110.03352
+
+32. DCU-NET
+Ange Lou, Shuyue Guan, Murray Loew
+DC-UNet: Rethinking the U-Net Architecture with Dual Channel Efficient CNN for Medical Images Segmentation, 2020
+
+33. My_arch
+Jinlin Ma, Yuanyuan Deng, Ziping Ma, Kaiji Mao,and Yong Chen
+A Liver Segmentation Method Based on the Fusion of VNet and WGAN,  2021
+https://www.hindawi.com/journals/cmmm/2021/5536903/
+
+34. WGAN
+M. Arjovsky, S. Chintala, and L. Bottou, “Wasserstein GAN,” 2017, 
+https://arxiv.org/pdf/1701.07875.pdf
+
+35. Confusion Matrix
+https://en.wikipedia.org/wiki/Confusion_matrix
+
+36. Confusion Matrix
+https://www.geeksforgeeks.org/confusion-matrix-machine-learning/
+
+37. Precision, Recall
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+
+38. accuracy,Precision, Recall
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+39. IoU
+https://www.v7labs.com/blog/intersection-over-union-guide
+
+40. IoU
+https://towardsdatascience.com/iou-a-better-detection-evaluation-metric-45a511185be1
+
+41. Dice Coeff
+https://www.kaggle.com/code/yerramvarun/understanding-dice-coefficient
+
+42. Dice Coeff
+https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
+
+43. Focal Loss
+https://towardsdatascience.com/focal-loss-a-better-alternative-for-cross-entropy-1d073d92d075
+
+44. Dice Loss
+https://serp.ai/dice-loss/
+
+45. Cross-entropy
+https://en.wikipedia.org/wiki/Cross-entropy
+
+46. Bin and Cat Cross entropy
+Cross Entropy Loss: Intro, Applications, Code.
+https://www.v7labs.com/blog/cross-entropy-loss-guide
+
+47.CT Heart dataset
+https://www.kaggle.com/datasets/nikhilroxtomar/ct-heart-segmentation
+
+48.paper for Heart dataset
+Reddy, A. & Reddy, K. & Jayaram, M. & Lakshmi, Maha & Aluvalu, Rajanikanth & T R, Mahesh & Kumar, V Vinoth & Alex, D.. (2022). An Efficient Multilevel Thresholding Scheme for Heart Image Segmentation Using a Hybrid Generalized Adversarial Network. Journal of Sensors, 2022, 1-11. 10.1155/2022/4093658.
+
+49. Breast Ultrasound Images Dataset
+Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images. Data in Brief. 2020 Feb;28:104863. DOI: 10.1016/j.dib.2019.104863.
+https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
+50.paper for the breast
+Dataset of breast ultrasound images
+Walid Al-Dhabyani , Mohammed Gomaa , Hussien Khaled , Aly Fahmy. 2020. 
+https://www.sciencedirect.com/science/article/pii/S2352340919312181
+
+51.LiTS – Liver Tumor Segmentation Challenge (LiTS17) organised in conjunction with ISBI 2017 and MICCAI 2017.
+Patrick Bilic and Patrick Ferdinand Christ and Eugene Vorontsov and Grzegorz Chlebus and Hao Chen and Qi Dou and Chi-Wing Fu and Xiao Han and Pheng-Ann Heng and Jürgen Hesser and Samuel Kadoury and Tomasz Konopczynski and Miao Le and Chunming Li and Xiaomeng Li and Jana Lipkovà and John Lowengrub and Hans Meine and Jan Hendrik Moltz and Chris Pal and Marie Piraud and Xiaojuan Qi and Jin Qi and Markus Rempfler and Karsten Roth and Andrea Schenk and Anjany Sekuboyina and Eugene Vorontsov and Ping Zhou and Christian Hülsemeyer and Marcel Beetz and Florian Ettlinger and Felix Gruen and Georgios Kaissis and Fabian Lohöfer and Rickmer Braren and Julian Holch and Felix Hofmann and Wieland Sommer and Volker Heinemann and Colin Jacobs and Gabriel Efrain Humpire Mamani and Bram van Ginneken and Gabriel Chartrand and An Tang and Michal Drozdzal and Avi Ben-Cohen and Eyal Klang and Marianne M. Amitai and Eli Konen and Hayit Greenspan and Johan Moreau and Alexandre Hostettler and Luc Soler and Refael Vivanti and Adi Szeskin and Naama Lev-Cohain and Jacob Sosna and Leo Joskowicz and Bjoern H. Menze,
+year={2019},
+eprint={1901.04056},
+https://www.kaggle.com/datasets/andrewmvd/lits-png
+https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation
+https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation-part-2
+
+52.paper for the Liver
+The Liver Tumor Segmentation Benchmark (LiTS),
+https://arxiv.org/abs/1901.04056
+
+53. nilabel
+nilabel a python library for medical images
+https://github.com/nipy/nilabels
+
+54. skimage
+scikit-image for image processing in python
+https://scikit-image.org/
+
+55. skimage resize
+Rescale, resize, and downscale feature in skimage-transform
+https://scikit-image.org/docs/stable/auto_examples/transform/plot_rescale.html
+
+56. bilinear interpolation
+https://en.wikipedia.org/wiki/Bilinear_interpolation
+
+57. gaussina filter
+https://en.wikipedia.org/wiki/Gaussian_filter
+
+58. semantic segmentation
+Jonathan Long, Evan Shelhamer, Trevor Darrell. Fully Convolutional Networks for Semantic Segmentation, CVPR (2015)
+
+59.
+Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick
+Mask R-CNN
+
+60. sigmoid image
+https://en.wikipedia.org/wiki/Sigmoid_function
+
+61. ReLU image
+https://medium.com/@preshchima/activation-functions-relu-softmax-87145bf39288
+
+62. softmax image
+https://medium.com/@AbhiramiVS/softmax-vs-logsoftmax-eb94254445a2
+
+63. CNN image
+https://www.analyticssteps.com/blogs/convolutional-neural-network-cnn-graphical-visualization-code-explanation
+
+64. max pool image
+https://medium.com/geekculture/max-pooling-why-use-it-and-its-advantages-5807a0190
+
+65. early stopping
+https://www.educative.io/answers/what-is-early-stopping
+
+66. V-net
+F. Milletari, N. Navab, and S. A. Ahmadi, “V-net: fully convo- lutional neural networks for volumetric medical image segmentation,” in the 2016 4th International Conference on 3D Vision (3DV), pp. 565–571, Stanford, USA, 2016.
+
+67. ReLU
+Fukushima, K. 
+Visual feature extraction by a multilayered network of analog threshold elements
+IEEE Transactions on Systems Science and Cybernetics. 5 (4): 322–333, 1969
+
+
+
+
+
